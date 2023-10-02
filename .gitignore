@@ -1,0 +1,77 @@
+# Ignore Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore NuGet packages folder
+packages/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore user-specific files
+*.userprefs
+*.suo
+*.sln.docstates
+
+# Ignore logs and other runtime data
+*.log
+.log.
+*.tmp
+*.bak
+*.cache
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore ReSharper and Rider folders
+_ReSharper/
+.idea/
+
+# Ignore the bin and obj directories for the project
+[Bb]in/
+[Oo]bj/
+
+# Ignore any .user files
+*.user
+
+# Ignore the .vs directory
+.vscode/
+
+# Ignore the packages folder
+packages/
+
+# Ignore the .vscode folder
+.vscode/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore the .idea folder for JetBrains Rider
+.idea/
+
+# Ignore the bin and obj directories for all projects
+**/[Bb]in/
+**/[Oo]bj/
+
+# Ignore Visual Studio temporary files
+[Tt]humbs.db
+desktop.ini
+*.dbmdl
+
+# Ignore .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore Visual Studio backup folders
+[Bb]ackup/
+[Ff]allback/
+*.exe
+*.cache
+*.editorconfig
