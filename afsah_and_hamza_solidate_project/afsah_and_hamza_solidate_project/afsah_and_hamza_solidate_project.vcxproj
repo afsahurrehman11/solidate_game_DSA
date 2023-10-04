@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="afsah_and_hamza_solidate_project.cpp" />
+    <ClInclude Include="Assets.h" />
+    <ClInclude Include="Cards.h" />
+    <ClInclude Include="FieldStack.h" />
+    <ClInclude Include="Playspace.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
